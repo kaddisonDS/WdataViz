@@ -1,0 +1,36 @@
+Parameter,value,sortfield
+"education expenditure
+% of GDP",-5.11E-06,5.11E-06
+overall economic freedom score,-0.000588849,0.000588849
+"GDP growth
+(annual %)",-0.000772538,0.000772538
+control of corruption,-0.001361079,0.001361079
+government spending score,0.002748806,0.002748806
+"health expenditure 
+% of GDP",0.006483857,0.006483857
+civil liberties score ,0.012505064,0.012505064
+political rights score ,0.014416593,0.014416593
+political stability & absence of violence,0.016117959,0.016117959
+population,-0.022626564,0.022626564
+financial freedom score,0.025396151,0.025396151
+school life expectancy (YEARS),0.026395297,0.026395297
+space per person,0.030689155,0.030689155
+government integrity score,0.03150499,0.03150499
+property rights score,-0.03175978,0.03175978
+judicial effectiveness score,-0.035724421,0.035724421
+government expenditure (% of GDP),-0.0381847,0.0381847
+regulatory quality,0.043014264,0.043014264
+tax burden score,0.048208523,0.048208523
+government effectiveness,0.05408546,0.05408546
+women MPs (% of all MPs),0.06370566,0.06370566
+rule of law,0.064116877,0.064116877
+"health expenditure 
+per person",0.073942767,0.073942767
+"GDP 
+(billions PPP)",-0.095364057,0.095364057
+GDP per capita (PPP),0.097173179,0.097173179
+surface area (Km2),-0.10170689,0.10170689
+unemployment (%),-0.120798247,0.120798247
+"education expenditure 
+per person ",0.141007127,0.141007127
+GINI index,-0.178561403,0.178561403
