@@ -1,0 +1,33 @@
+Parameter,value,explanation,source
+Civil Liberties Score ,-0.635408156,The lower the better,https://freedomhouse.org/content/freedom-world-data-and-resources
+Political Rights Score ,-0.607597889,The lower the better,https://freedomhouse.org/content/freedom-world-data-and-resources
+Government Spending Score,-0.513128209,Burden of government spending on the country <br> The lower the better,https://www.heritage.org/index/explore
+GINI Index,-0.402671222,Inequality in the distribution of family income. The lower the better.,https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html
+Tax Burden Score,-0.235892658,Individual tax rate + corporate tax rate + total tax as % of GDP ,https://www.heritage.org/index/explore
+Unemployment (%),-0.117509852,,https://www.heritage.org/index/explore
+Population,-0.064018606,,https://data.worldbank.org/indicator/SP.POP.TOTL
+Surface Area (Km2),0.024209545,,https://www.cia.gov/library/publications/the-world-factbook/fields/2147.html#al
+"GDP Growth
+(annual %)",0.070004052,,https://www.heritage.org/index/explore
+"GDP 
+(billions PPP)",0.104613584,,https://www.heritage.org/index/explore
+"Health Expenditure 
+% of GDP",0.34228582,,https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
+Women MPs (% of all MPs),0.358412385,,https://data.worldbank.org/indicator/SG.GEN.PARL.ZS
+Government Expenditure (% of GDP),0.502343957,,https://www.heritage.org/index/explore
+Financial Freedom Score,0.585669682,"Level of gov regulation of financial services, foreign competition, credit & capital development ",https://www.heritage.org/index/explore
+Judicial Effectiveness Score,0.629753137,"judicial independence + quality of the judicial process,
+fairness
+(/100)",https://www.heritage.org/index/explore
+Political Stability & Absence of Violence,0.639573553,Likelihood of political instability ,http://info.worldbank.org/governance/wgi/#home
+Overall Economic Freedom Score,0.67912205,,https://www.heritage.org/index/explore
+Government Integrity Score,0.680653999,Public trust + transparency + corruption ,https://www.heritage.org/index/explore
+GDP per Capita (PPP),0.737882937,,https://www.heritage.org/index/explore
+School Life Expectancy (Years),0.742906707,"average male & female, primary to tertiary (years) ",https://www.cia.gov/library/publications/the-world-factbook/fields/2205.html#202
+Control of Corruption,0.744948603,,http://info.worldbank.org/governance/wgi/#home
+"Health Expenditure 
+per person",0.753914244,(current international $),https://data.worldbank.org/indicator/SH.XPD.CHEX.PP.CD
+Property Rights Score,0.772982453,How freely can inhabitants acquire private property?,https://www.heritage.org/index/explore
+Rule of Law,0.777139731,quality of rule of law + likelihood of crime / violence,http://info.worldbank.org/governance/wgi/#home
+Regulatory Quality,0.818005845,level of policies to support private sector,http://info.worldbank.org/governance/wgi/#home
+Government Effectiveness,0.851566083,"Quality of public services, civil service, policy formation, government commitment",http://info.worldbank.org/governance/wgi/#home
