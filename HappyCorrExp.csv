@@ -1,4 +1,4 @@
-Parameter,value,explanation,source
+Parameter,correlation,explanation,source
 Civil Liberties Score ,-0.635408156,The lower the better,https://freedomhouse.org/content/freedom-world-data-and-resources
 Political Rights Score ,-0.607597889,The lower the better,https://freedomhouse.org/content/freedom-world-data-and-resources
 Government Spending Score,-0.513128209,Burden of government spending on the country <br> The lower the better,https://www.heritage.org/index/explore
